@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-17T01:46:01.383Z</updated>
+  <updated>2022-03-20T16:00:02.219Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>云计算作业2</title>
+    <link href="http://example.com/2022/03/21/Homework_2/"/>
+    <id>http://example.com/2022/03/21/Homework_2/</id>
+    <published>2022-03-21T08:33:05.000Z</published>
+    <updated>2022-03-20T16:00:02.219Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h4 id="第四章作业"><a href="#第四章作业" class="headerlink" title="第四章作业"></a><strong>第四章作业</strong></h4><span id="more"></span><ol><li><strong>列举威胁作用者有哪些，并简要说明。</strong></li></ol><ul><li><p>威胁作用者</p><ul><li>匿名攻击者</li><li>恶意服务作用者</li><li>授信的攻击者</li><li>恶意的内部人员</li></ul></li><li><p>简要说明</p><ul><li><strong>匿名攻击者</strong>是不被信任的威胁作用者，通常试图从云边界的外部进行攻击；</li><li><strong>恶意服务作用者</strong>截取网络通信，试图恶意地使用或篡改数据；</li><li><strong>授信的攻击者</strong>是经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源；</li><li><strong>恶意的内部</strong>人员是试图滥用对云资源范围的访问特权的人。</li></ul></li></ul><ol start="2"><li><strong>列举云安全威胁有哪些，并简要说明。</strong></li></ol><ul><li><p>云安全威胁</p><ul><li>流量窃听</li><li>恶意媒介</li><li>拒绝服务</li><li>授权不足</li><li>虚拟化攻击</li><li>信任边界重叠</li></ul></li><li><p>简要说明</p><ul><li><strong>流量窃听</strong>和<strong>恶意媒介攻击</strong>通常是由截取网络流量的恶意服务作用者实施的；</li><li><strong>拒绝服务攻击</strong>的发生是当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用；</li><li><strong>授权不足攻击</strong>是指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码；</li><li><strong>虚拟化攻击</strong>利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问；</li><li><strong>重叠的信任边界</strong>潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源。</li></ul></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;h4 id=&quot;第四章作业&quot;&gt;&lt;a href=&quot;#第四章作业&quot; class=&quot;headerlink&quot; title=&quot;第四章作业&quot;&gt;&lt;/a&gt;&lt;strong&gt;第四章作业&lt;/strong&gt;&lt;/h4&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>云计算作业1</title>
